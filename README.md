@@ -1,2 +1,0 @@
-# Aadi
-College Assignment
